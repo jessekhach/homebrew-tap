@@ -1,6 +1,6 @@
 cask "quickpass" do
-  version "0.1.1"
-  sha256 "a9f86d47b07ceac68534fc376faa1bfa37f2bb6aa07bbb5254c8f8b6f65c0b7d"
+  version "0.1.2"
+  sha256 "dcd90a87f6a14f37a690d03bb1de291ec0e7f8ea4754c1b70e165c8eef41615d"
 
   url "https://github.com/jessekhach/QuickPass/releases/download/v#{version}/QuickPass-#{version}.dmg"
   name "QuickPass"
